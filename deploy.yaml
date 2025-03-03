@@ -1,0 +1,3 @@
+template-file-path: aws-template.yml
+parameters: {}
+tags: {}
