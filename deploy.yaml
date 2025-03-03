@@ -1,1 +1,3 @@
-Parameters: {}
+Resources:
+  EmptyResource:
+    Type: "AWS::CloudFormation::WaitConditionHandle"
